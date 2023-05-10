@@ -1,2 +1,7 @@
 **Your goal is to generate a fast forward merge. Demonstrate that you understand how FF merges work by creating one on your own!**
 
+Formal greetings
+1. How do you do?
+2. Nice to meet you / Pleased to meet you
+3. How have you been?
+4. Good Morning / Good Afternoon / Good Evening
