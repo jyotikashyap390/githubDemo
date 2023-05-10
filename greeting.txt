@@ -1,7 +1,28 @@
 **Your goal is to generate a fast forward merge. Demonstrate that you understand how FF merges work by creating one on your own!**
 
-Formal greetings
-1. How do you do?
-2. Nice to meet you / Pleased to meet you
-3. How have you been?
-4. Good Morning / Good Afternoon / Good Evening
+Informal greetings
+9. Hello / Hi / Hey
+10. Morning / Afternoon / Evening
+11. How are you doing? / How’s it going?
+12. Nice to see you / It’s great to see you / Good to see you
+13. Long-time no see / It’s been a while
+Slang greetings
+14. Yo!
+15. What’s up?
+16. Sup
+17. Heyyy
+British greetings
+18. Lovely to meet you / Lovely to see you
+19. Are you OK?
+20. Alright, mate? / Alright?
+21. Hiya!
+22. What’s the craic?
+Funny Greetings
+23. Ahoy!
+24. Hello stranger!
+25. ‘Ello, gov’nor!
+26. Goodmorrow!
+27. What’s crackin’?
+28. What’s up buttercup?
+29. Howdy!
+A brief afterword
